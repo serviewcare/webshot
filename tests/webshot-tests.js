@@ -1,6 +1,6 @@
 var fs = Npm.require('fs');
 
-Tinytest.addAsync('html-to-image', function (test, done) {
+Tinytest.addAsync('Save HTML to image', function (test, done) {
     var filename = 'hello_world.png';
 
     // Save HTML to an image
