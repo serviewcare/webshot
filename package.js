@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'webshot': '0.15.4'
+  'webshot': '0.18.0'
 });
 
 Package.onUse(function(api) {
